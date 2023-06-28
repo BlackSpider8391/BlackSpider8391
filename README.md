@@ -7,9 +7,9 @@
 <br />
 
 This is my address: <br/>
-Skype😘: live:.cid.efeffe4a6dc10009 
+Skype😘: live:.cid.57380802acf4db7b
 <br />
-Gmail 📨: david.baker8391@gmail.com 
+Gmail 📨: blackspider8391@gmail.com 
 <br />
 
 <p><img align="right" width="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
