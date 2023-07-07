@@ -1,24 +1,27 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Svelte%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50">
-  </a>
+## 👋 Hi, I'm OpenAI Expert and Full Stack developer 
+
+![](https://komarev.com/ghpvc/?username=kingstar0126&color=green)
+
+This is my address: <br/>
+📞 Skype: live:.cid.57380802acf4db7b
+<br />
+📩 Gmail: blackspider8391@gmail.com
+<br />
+
+### My Working Style
+
+<p align="left">
+⚡Full-time developer (40+ hours per week)<br />
+⚡Working in your time zone & Good communication.<br />
+⚡Update the result daily, every week<br />
+⚡Keep on-Time, on-Budget<br />
+⚡100% ongoing satisfaction with your project.<br />
+⚡Provide the result with high quality<br />
+⚡Lifetime Free Bug-Fix support after completion<br />
+⚡Agile Scrum workflow!<br />
 </p>
 
 <br />
-
-This is my address: <br/>
-Skype😘: live:.cid.57380802acf4db7b
-<br />
-Gmail 📨: blackspider8391@gmail.com 
-<br />
-
-<p><img align="right" width="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-<p>As a Full Stack Software Engineer with 9 years of professional background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the front end and Node.js/Express.js(Primary), Python/Django, PHP/Laravel, and Java for the back end.</p>
-<p>Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.</p>
-<p>Collaborate with creative and development teams on the execution of ideas and projects.</p>
-
-####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Java-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/Jest-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/SCSS-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/Material%20UI-blue) ![](https://img.shields.io/badge/Ant%20Design-blue)</div>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
@@ -160,3 +163,22 @@ Gmail 📨: blackspider8391@gmail.com
   </tr>
 </table>
 <br/>
+
+### 💡 &nbsp;Interested in
+
+![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
+![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)&nbsp;
+
+<br />
+
+### ⚙️ &nbsp;Some Stats
+
+<br />
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kingstar0126&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
